@@ -1,0 +1,46 @@
+{
+  "name": "Générateur de Titres Auto",
+  "description": "Créez des titres percutants pour vos articles auto avec notre générateur intelligent. Styles SEO, accrocheurs, experts et commerciaux pour le marché français.",
+  "theme": "calculator",
+  "design_theme": "copper-grid",
+  "structure_preset": "quick-compare-strip",
+  "render_direction": "signal-bento",
+  "page_blueprint": "briefing-board",
+  "language": "fr",
+  "country": "FR",
+  "url": null,
+  "expected_url": "https://generateur-de-titres-auto-2.onrender.com",
+  "created": "2026-06-11T02:06:25.537184+00:00",
+  "owner_user_id": "user-1774825923424-663",
+  "owner_username": "inso",
+  "owner_display_name": "Inso",
+  "provider_space_id": "new-sites",
+  "provider_space_name": "New Sites",
+  "status": "generated",
+  "run_id": "run-1781143446422",
+  "external_site_request_id": null,
+  "external_client_ref": null,
+  "external_source_label": null,
+  "source_type": "generated",
+  "publish_target": "render",
+  "mode": "production",
+  "github": {
+    "status": "pending"
+  },
+  "deployment": {
+    "status": "pending"
+  },
+  "qa": {
+    "status": "pending"
+  },
+  "features": [
+    "Hero pattern: tool-first",
+    "Proof module: metrics",
+    "Design theme: Copper Grid",
+    "Render direction: Signal Bento",
+    "Page blueprint: Briefing Board",
+    "Runtime mode: generic_calculator",
+    "Generation mode: direct_html",
+    "Artifact rendered, awaiting QA and deployment"
+  ]
+}
